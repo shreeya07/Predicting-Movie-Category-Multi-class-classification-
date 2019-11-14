@@ -1,0 +1,3 @@
+# Predicting-Movie-Category-Multi-class-classification-
+
+This is a Multi-Class classification problem. Analysis of the dataset is performed to predict categories of movies from flop to blockbuster (0-9). Conducted Data Cleaning, Data Pre-processing and Exploratory data analysis in Python. Using Natural Language Processing, the text review of the reviewer is converted into categorical format (based on emotions). Different prediction models are built by applying Machine Learning Algorithms (Decision Trees, Support Vector Machine, K-Nearest Neighbor, and Multi-Layer Perceptron) in Python using the scikit-learn library and Keras.
